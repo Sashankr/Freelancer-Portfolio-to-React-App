@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Freelancer-Portfolio-to-React-App/static/css/main.d088157f.chunk.css",
+    "main.js": "/Freelancer-Portfolio-to-React-App/static/js/main.309577b0.chunk.js",
+    "main.js.map": "/Freelancer-Portfolio-to-React-App/static/js/main.309577b0.chunk.js.map",
+    "runtime-main.js": "/Freelancer-Portfolio-to-React-App/static/js/runtime-main.44522993.js",
+    "runtime-main.js.map": "/Freelancer-Portfolio-to-React-App/static/js/runtime-main.44522993.js.map",
+    "static/js/2.6e9ea226.chunk.js": "/Freelancer-Portfolio-to-React-App/static/js/2.6e9ea226.chunk.js",
+    "static/js/2.6e9ea226.chunk.js.map": "/Freelancer-Portfolio-to-React-App/static/js/2.6e9ea226.chunk.js.map",
+    "index.html": "/Freelancer-Portfolio-to-React-App/index.html",
+    "static/css/main.d088157f.chunk.css.map": "/Freelancer-Portfolio-to-React-App/static/css/main.d088157f.chunk.css.map",
+    "static/js/2.6e9ea226.chunk.js.LICENSE.txt": "/Freelancer-Portfolio-to-React-App/static/js/2.6e9ea226.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Freelancer-Portfolio-to-React-App/static/media/metropolis-bold-webfont.9b1ccd61.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44522993.js",
+    "static/js/2.6e9ea226.chunk.js",
+    "static/css/main.d088157f.chunk.css",
+    "static/js/main.309577b0.chunk.js"
+  ]
+}
