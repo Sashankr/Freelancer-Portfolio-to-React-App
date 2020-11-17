@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Freelancer-Portfolio-to-React-App/static/css/main.d088157f.chunk.css",
-    "main.js": "/Freelancer-Portfolio-to-React-App/static/js/main.309577b0.chunk.js",
-    "main.js.map": "/Freelancer-Portfolio-to-React-App/static/js/main.309577b0.chunk.js.map",
+    "main.js": "/Freelancer-Portfolio-to-React-App/static/js/main.192ca70b.chunk.js",
+    "main.js.map": "/Freelancer-Portfolio-to-React-App/static/js/main.192ca70b.chunk.js.map",
     "runtime-main.js": "/Freelancer-Portfolio-to-React-App/static/js/runtime-main.44522993.js",
     "runtime-main.js.map": "/Freelancer-Portfolio-to-React-App/static/js/runtime-main.44522993.js.map",
     "static/js/2.6e9ea226.chunk.js": "/Freelancer-Portfolio-to-React-App/static/js/2.6e9ea226.chunk.js",
@@ -10,12 +10,19 @@
     "index.html": "/Freelancer-Portfolio-to-React-App/index.html",
     "static/css/main.d088157f.chunk.css.map": "/Freelancer-Portfolio-to-React-App/static/css/main.d088157f.chunk.css.map",
     "static/js/2.6e9ea226.chunk.js.LICENSE.txt": "/Freelancer-Portfolio-to-React-App/static/js/2.6e9ea226.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/Freelancer-Portfolio-to-React-App/static/media/metropolis-bold-webfont.9b1ccd61.woff2"
+    "static/media/avataaars.aa9aff02.svg": "/Freelancer-Portfolio-to-React-App/static/media/avataaars.aa9aff02.svg",
+    "static/media/cabin.44173302.png": "/Freelancer-Portfolio-to-React-App/static/media/cabin.44173302.png",
+    "static/media/cake.65544730.png": "/Freelancer-Portfolio-to-React-App/static/media/cake.65544730.png",
+    "static/media/circus.494a4a91.png": "/Freelancer-Portfolio-to-React-App/static/media/circus.494a4a91.png",
+    "static/media/game.a940b57a.png": "/Freelancer-Portfolio-to-React-App/static/media/game.a940b57a.png",
+    "static/media/styles.css": "/Freelancer-Portfolio-to-React-App/static/media/metropolis-bold-webfont.9b1ccd61.woff2",
+    "static/media/safe.01792c0b.png": "/Freelancer-Portfolio-to-React-App/static/media/safe.01792c0b.png",
+    "static/media/submarine.48c9704c.png": "/Freelancer-Portfolio-to-React-App/static/media/submarine.48c9704c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.44522993.js",
     "static/js/2.6e9ea226.chunk.js",
     "static/css/main.d088157f.chunk.css",
-    "static/js/main.309577b0.chunk.js"
+    "static/js/main.192ca70b.chunk.js"
   ]
 }
