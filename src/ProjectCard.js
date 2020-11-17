@@ -28,7 +28,7 @@ const ProjectCard = ({cardImage,modalId,modalTarget,cardAlt,modalHeading,modalTe
       <div className="modal-body">
       <p id="separator2"></p>
       <img className="img-fluid" src={cardImage} alt={cardAlt} />
-        <p className="mt-4 text-center modal-text">{modalText}</p>
+        <p className="mt-4 text-md-center modal-text">{modalText}</p>
       </div>
       <div className="modal-footer d-flex justify-content-center align-items-center">
         <button className="modal-button btn" type="button" data-dismiss="modal"><span aria-hidden="true" className="modal-cross pr-2">&times;</span>Close Window</button>
